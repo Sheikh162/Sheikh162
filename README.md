@@ -1,8 +1,9 @@
 # Sheikh Abdullah
 
-Software Engineer. Full-stack developer focused on building modern, performant web applications.
+![Banner](assets/banner.jpg)
 
-Currently: Software Engineer Intern at Fidelity Investments.
+Software Engineer. Building modern, performant web applications.
+
 Education: B.Tech in Computer Science (IoT), Shiv Nadar University Chennai (2023-2027).
 
 ## Skills
