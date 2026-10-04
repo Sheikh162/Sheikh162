@@ -1,6 +1,6 @@
 # Sheikh Abdullah
 
-![Banner](assets/banner.jpg?v=2)
+![Banner](assets/banner.jpg?v=3)
 
 Software Engineer. Building modern, performant web applications.
 
